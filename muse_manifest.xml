@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appeelint.gq" resolutions="1x" timestamp="1511939182426">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appeelint.gq" resolutions="1x" timestamp="1511987693781">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4179394687" ref="index"/>
+    <file name="index.css" crc="200402608" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="font-awesome-free.mulib" crc="4218797588" seo="true" mt="1469744624000"/>
@@ -20,7 +20,7 @@
   </folder>
   <folder name="images">
     <file name="apeelintlogo-u248-fr.jpg" crc="3870919270" ref="index"/>
-    <file name="u576-4.png" crc="53682858" ref="index"/>
+    <file name="u576-4.png" crc="4205579331" ref="index"/>
     <file name="anderson.jpg" crc="3782697457" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -34,5 +34,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="309905031" seo="true" mt="1511939056752" redirect="true"/>
+  <file name="index.html" crc="137843788" seo="true" mt="1511987676220" redirect="true"/>
 </manifest>
