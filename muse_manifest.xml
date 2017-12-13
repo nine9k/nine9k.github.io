@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appeelint.gq" resolutions="1x" timestamp="1511987693781">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appeelint.gq" resolutions="1x" timestamp="1513202489640">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="200402608" ref="index"/>
+    <file name="index.css" crc="3942533673" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="font-awesome-free.mulib" crc="4218797588" seo="true" mt="1469744624000"/>
@@ -17,22 +17,74 @@
     <file name="jquery.museoverlay.js" crc="528673841" ref="index"/>
     <file name="touchswipe.js" crc="432264157" ref="index"/>
     <file name="require.js" crc="3861931657" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3809204180" ref="index"/>
   </folder>
   <folder name="images">
     <file name="apeelintlogo-u248-fr.jpg" crc="3870919270" ref="index"/>
     <file name="u576-4.png" crc="4205579331" ref="index"/>
-    <file name="anderson.jpg" crc="3782697457" ref="index">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u643.png" crc="4048057243" ref="index"/>
+    <file name="u643-r.png" crc="4048057243" ref="index"/>
+    <file name="u643-m.png" crc="4048057243" ref="index"/>
+    <file name="u643-a.png" crc="264752195" ref="index"/>
+    <file name="to from 1.jpg" crc="4103979139" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="duncan.jpg" crc="233850536" ref="index">
+    <file name="to from 9.jpg" crc="3971296990" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="wardle 2.jpg" crc="519422544" ref="index">
+    <file name="to from 6.jpg" crc="487450581" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="whitlock.jpg" crc="274402798" ref="index">
+    <file name="to from 5.jpg" crc="425629827" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="to from 7.jpg" crc="3837902160" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="to from 4.jpg" crc="444786521" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="to from 8.jpg" crc="4128931961" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="to from 3.jpg" crc="532991993" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="to from 10.jpg" crc="443312936" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="to from 2.jpg" crc="4151374394" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u639.png" crc="233204276" ref="index"/>
+    <file name="u639-r.png" crc="233204276" ref="index"/>
+    <file name="u639-m.png" crc="233204276" ref="index"/>
+    <file name="u639-a.png" crc="83563860" ref="index"/>
+    <file name="u637.png" crc="3956775174" ref="index"/>
+    <file name="u637-r.png" crc="3956775174" ref="index"/>
+    <file name="u637-m.png" crc="3956775174" ref="index"/>
+    <file name="u637-a.png" crc="298812785" ref="index"/>
   </folder>
-  <file name="index.html" crc="137843788" seo="true" mt="1511987676220" redirect="true"/>
+  <file name="index.html" crc="51102691" seo="true" mt="1513202453111" redirect="true"/>
 </manifest>

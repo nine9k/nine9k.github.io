@@ -2,9 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://appeelint.gq/index.html</loc>
-    <lastmod>2017-11-29</lastmod>
+    <lastmod>2017-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://appeelint.gq/images/to%20from%201.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appeelint.gq/images/to%20from%209.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appeelint.gq/images/to%20from%206.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appeelint.gq/images/to%20from%205.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appeelint.gq/images/to%20from%207.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appeelint.gq/images/to%20from%204.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appeelint.gq/images/to%20from%208.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appeelint.gq/images/to%20from%203.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appeelint.gq/images/to%20from%2010.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appeelint.gq/images/to%20from%202.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://appeelint.gq/assets/font-awesome-free.mulib</loc>
